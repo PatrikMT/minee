@@ -40,11 +40,13 @@ IMAGEM 4
 
 ETAPA 3:
 
-De volta ao curse forge
+De volta ao curse forge, clique sobre os 3 pontinhos ao lado do botão play e selecione 'OPEN FOLDER"
 
+![image](https://github.com/user-attachments/assets/af434848-44b5-43d9-84f1-c3be50ea01ee)
 
+Dentro dessa pasta entre agora em MODS e lá export o modpack, assim deve ficar varios arquivos .jar lá dentro.
 
-
+Tudo feito? Agora rode o jogo como de costume e crie um mundo para ver se está com o modpack.
 
 
 
